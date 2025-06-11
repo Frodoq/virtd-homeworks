@@ -29,6 +29,15 @@
 
 Примечание: Облачная ВМ с Linux в данной задаче не подойдёт из-за ограничений облачного провайдера. У вас просто не установится virtualbox.
 
+sokolov.pa@NB-ISC-737640 ~ % VBoxManage -v
+7.1.10r169112
+sokolov.pa@NB-ISC-737640 ~ % vagrant -v
+Vagrant 2.4.6
+sokolov.pa@NB-ISC-737640 ~ % packer -v
+Packer v1.11.2
+sokolov.pa@NB-ISC-737640 ~ % yc -v
+Yandex Cloud CLI 0.150.0 darwin/arm64
+
 ## Задача 2
 
 1. Убедитесь, что у вас есть ssh ключ в ОС или создайте его с помощью команды ```ssh-keygen -t ed25519```
