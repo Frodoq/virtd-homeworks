@@ -43,7 +43,9 @@ Hey, Netology
 4. Убедитесь с помощью curl или веб браузера, что индекс-страница доступна.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
-
+### Решение:
+- ![image](https://github.com/user-attachments/assets/32fccb28-cf92-4096-8556-c2d5d47a2d52)
+- ![image](https://github.com/user-attachments/assets/3a65d68a-4076-4f14-bb16-e770a3d8a763)
 
 ## Задача 3
 1. Воспользуйтесь docker help или google, чтобы узнать как подключиться к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2".
@@ -60,6 +62,18 @@ Hey, Netology
 12. Удалите запущенный контейнер "custom-nginx-t2", не останавливая его.(воспользуйтесь --help или google)
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+### Решение:
+- 1-4 (почему контейнер остановился: ctrl+c 
+![image](https://github.com/user-attachments/assets/f24cfd1d-3dda-42f0-b696-b9cca777f9b9)
+![image](https://github.com/user-attachments/assets/f5277767-ec21-4d08-bbfc-742eec1dfabb)
+- 5-8
+![image](https://github.com/user-attachments/assets/bbf35db0-d65e-48f4-9c98-f55e28378091)
+![image](https://github.com/user-attachments/assets/9f73011a-8f68-4351-a002-1ac77d6c573f)
+- 10 - Суть проблемы: nginx теперь слушает порт 81 внутри контейнера, но внешний порт 8080 все еще висит на 80
+- 11-12 
+![image](https://github.com/user-attachments/assets/47cc80e4-9f1e-4d09-9aa0-c77bad6d430c)
+![image](https://github.com/user-attachments/assets/a6148680-4427-48eb-a72b-1ae7dcee8000)
+![image](https://github.com/user-attachments/assets/e3227abf-0b08-4db6-94a8-5e4b79a33758)
 
 ## Задача 4
 
