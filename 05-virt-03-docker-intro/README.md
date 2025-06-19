@@ -135,6 +135,14 @@ services:
 7. Удалите любой из манифестов компоуза(например compose.yaml).  Выполните команду "docker compose up -d". Прочитайте warning, объясните суть предупреждения и выполните предложенное действие. Погасите compose-проект ОДНОЙ(обязательно!!) командой.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
+![image](https://github.com/user-attachments/assets/726b547b-73cf-493d-be74-75e107a33572)
+ - запустился только portainer, т.к. compose.yaml имеет приоритет
+![image](https://github.com/user-attachments/assets/f7bf7f95-b8e0-429f-95d3-577472846770)
+![image](https://github.com/user-attachments/assets/c45012fc-24df-458e-9433-6f9d7355ab09)
+![image](https://github.com/user-attachments/assets/bff15a12-28ab-40b4-bd9f-d9f46b041d09)
+![image](https://github.com/user-attachments/assets/e45ad938-fa2b-4f0a-ab85-669de9f617e0)
+![image](https://github.com/user-attachments/assets/2f1efb4e-0d72-4086-a65d-4a918b5ac9cf)
+docker compose говорит что обнаружил осиротевшие контейнеры и посоветовал флаг --remove-orphans
 
 ---
 
