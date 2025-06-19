@@ -87,7 +87,7 @@ Hey, Netology
 
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
-
+![image](https://github.com/user-attachments/assets/b31eef27-6fe0-4bef-83e4-9be30d1f7866)
 
 ## Задача 5
 
