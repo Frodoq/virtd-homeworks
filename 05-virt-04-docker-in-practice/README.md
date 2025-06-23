@@ -25,6 +25,13 @@ See 'snap info docker' for additional versions.
 В случае наличия установленного в системе ```docker-compose``` - удалите его.  
 2. Убедитесь что у вас УСТАНОВЛЕН ```docker compose```(без тире) версии не менее v2.24.X, для это выполните команду ```docker compose version```  
 ###  **Своё решение к задачам оформите в вашем GitHub репозитории!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+![image](https://github.com/user-attachments/assets/cc52dd8e-dd44-42d5-a590-b10fdfc253cd)
+![image](https://github.com/user-attachments/assets/0deff65b-6e89-4d64-87fb-931830651d30) 
+по факту задача выполнена, но из-за строгой проверки x_real_ip в коде приложения, получаю ошибку
+использовал middleware для передачи правильного заголовка при запросе, чтобы не затрагивать main.py
+![image](https://github.com/user-attachments/assets/3eb03256-e2d9-432d-9301-c58a11051c1c)
+https://github.com/Frodoq/shvirtd-example-python
+
 
 ---
 
@@ -43,6 +50,9 @@ See 'snap info docker' for additional versions.
 ### ВНИМАНИЕ!
 !!! В процессе последующего выполнения ДЗ НЕ изменяйте содержимое файлов в fork-репозитории! Ваша задача ДОБАВИТЬ 5 файлов: ```Dockerfile.python```, ```compose.yaml```, ```.gitignore```, ```.dockerignore```,```bash-скрипт```. Если вам понадобилось внести иные изменения в проект - вы что-то делаете неверно!
 ---
+![image](https://github.com/user-attachments/assets/c73c87ab-70b5-4096-93be-8097f8f2ed94)
+
+
 
 ## Задача 2 (*)
 1. Создайте в yandex cloud container registry с именем "test" с помощью "yc tool" . [Инструкция](https://cloud.yandex.ru/ru/docs/container-registry/quickstart/?from=int-console-help)
