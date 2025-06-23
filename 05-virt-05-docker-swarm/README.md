@@ -30,7 +30,8 @@ docker node ls
 ![image](https://github.com/user-attachments/assets/192b31c8-aff2-4a3a-b6bc-d31e831069dd)
 ![image](https://github.com/user-attachments/assets/c6a258d7-4265-431f-ac51-dd08a20f262a)
 ![image](https://github.com/user-attachments/assets/ce3f3004-a495-4220-babb-bfc88b56f3ec)
-![image](https://github.com/user-attachments/assets/29490a86-1f50-460c-a827-1444d070bd96)
+![image](https://github.com/user-attachments/assets/fae4693c-c7f1-4ae8-a5fa-e187a674867e)
+
 
 
 
