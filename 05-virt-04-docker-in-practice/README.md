@@ -58,6 +58,8 @@ https://github.com/Frodoq/shvirtd-example-python
 3. Соберите и залейте в него образ с python приложением из задания №1.
 4. Просканируйте образ на уязвимости.
 5. В качестве ответа приложите отчет сканирования.
+![image](https://github.com/user-attachments/assets/28482a19-33f6-4347-81af-66aa0f60b645)
+
 
 ## Задача 3
 1. Изучите файл "proxy.yaml"
@@ -74,6 +76,8 @@ https://github.com/Frodoq/shvirtd-example-python
 5. Подключитесь к БД mysql с помощью команды ```docker exec -ti <имя_контейнера> mysql -uroot -p<пароль root-пользователя>```(обратите внимание что между ключем -u и логином root нет пробела. это важно!!! тоже самое с паролем) . Введите последовательно команды (не забываем в конце символ ; ): ```show databases; use <имя вашей базы данных(по-умолчанию example)>; show tables; SELECT * from requests LIMIT 10;```.
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
+![image](https://github.com/user-attachments/assets/2899c58f-7004-4b15-8fe5-44f362dc6995)
+
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
