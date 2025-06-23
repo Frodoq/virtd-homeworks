@@ -114,6 +114,7 @@ https://github.com/Frodoq/shvirtd-example-python
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
+![image](https://github.com/user-attachments/assets/925c63b6-248c-4cda-8410-c4e78418b05a)
 
 
 ## Задача 6.2 (**)
