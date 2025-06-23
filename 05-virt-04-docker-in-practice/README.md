@@ -46,7 +46,7 @@ See 'snap info docker' for additional versions.
 ---
 ![image](https://github.com/user-attachments/assets/c73c87ab-70b5-4096-93be-8097f8f2ed94)
 ![image](https://github.com/user-attachments/assets/0deff65b-6e89-4d64-87fb-931830651d30) 
-по факту задача выполнена, но из-за строгой проверки x_real_ip в коде приложения, получаю ошибку
+по факту задача выполнена, но из-за строгой проверки x_real_ip в коде приложения, получаю ошибку.
 использовал middleware для передачи правильного заголовка при запросе, чтобы не затрагивать main.py
 ![image](https://github.com/user-attachments/assets/3eb03256-e2d9-432d-9301-c58a11051c1c)
 https://github.com/Frodoq/shvirtd-example-python
