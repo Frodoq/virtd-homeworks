@@ -27,6 +27,13 @@
 ```
 docker node ls
 ```
+![image](https://github.com/user-attachments/assets/192b31c8-aff2-4a3a-b6bc-d31e831069dd)
+![image](https://github.com/user-attachments/assets/c6a258d7-4265-431f-ac51-dd08a20f262a)
+![image](https://github.com/user-attachments/assets/ddd7d8e4-3db6-4b5e-9884-5246116abd9c)
+![image](https://github.com/user-attachments/assets/29490a86-1f50-460c-a827-1444d070bd96)
+
+
+
 ## Задача 2 (*) (необязательное задание *).
 1.  Задеплойте ваш python-fork из предыдущего ДЗ(05-virt-04-docker-in-practice) в получившийся кластер.
 2. Удалите стенд.
