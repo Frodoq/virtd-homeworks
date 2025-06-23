@@ -99,6 +99,7 @@ https://github.com/Frodoq/shvirtd-example-python
 4. Предоставьте скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup"
 ![image](https://github.com/user-attachments/assets/207cc9e1-b14f-475f-b547-d6475bfd40fa) - ручник
 
+![image](https://github.com/user-attachments/assets/007836f2-4e18-44ac-b47b-af5ecd0f15ec) - автомат
 
 
 
